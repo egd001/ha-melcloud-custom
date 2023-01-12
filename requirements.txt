@@ -28,4 +28,3 @@ pre-commit
 flake8
 isort
 black
-pymelcloud==2.5.8
